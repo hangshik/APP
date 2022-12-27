@@ -1,0 +1,19 @@
+* {
+    font-size:large;
+}
+
+table {
+    border-collapse: separate;
+    border-spacing: 5px 5px;
+    border:1px solid blueviolet;
+    float: left;
+}
+
+td{
+    vertical-align: top;
+}
+
+a {
+    text-decoration-line: none;
+    font-weight: bold;
+  }
